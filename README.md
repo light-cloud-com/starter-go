@@ -8,6 +8,10 @@
   A Go REST API built on the standard library, ready to deploy on Light Cloud.
 </p>
 
+<p align="center">
+  <a href="https://console.light-cloud.com/new?repo=https://github.com/light-cloud-com/starter-go"><img src="https://light-cloud.com/button.svg" alt="Deploy to Light Cloud" /></a>
+</p>
+
 ---
 
 ## Features
